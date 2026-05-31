@@ -1,6 +1,6 @@
 # dark-founder-portfolio
 
-A minimal dark one-page portfolio starter for solo builders, founders, and product engineers.
+A minimal dark one-page portfolio starter for solo builders, founders, and product engineers, maintained by Vaguul under the Zemiax personal software studio.
 
 ## Includes
 
@@ -15,7 +15,7 @@ Open `index.html` and replace the placeholder text, links, and colors with your 
 
 ## Author
 
-Built and published by Valaksi.
+Built and maintained by Vaguul for Zemiax.
 
 ## License
 
