@@ -11,6 +11,8 @@ A minimal dark one-page portfolio starter for solo builders, founders, and produ
 
 ## Usage
 
+Use this repository as a GitHub template, or clone it directly.
+
 Open `index.html` and replace the placeholder text, links, and colors with your own brand.
 
 ## Author
